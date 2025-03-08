@@ -15804,5 +15804,12 @@
     "author": "Marc André Ueberall",
     "description": "Weather generator for the HârnMaster: Roleplaying in the World of Kèthîra rule system.",
     "repo": "marcueberall/obsidian-harn-weather"
-  }
+  },
+{
+    "id": "proxy-enhance",
+    "name": "Proxy Enhance",
+    "author": "LragonStarr",
+    "description": "为 Obsidian 提供内置的网络代理支持。Provides built-in network proxy support for Obsidian.",
+    "repo": "QL-boy/Obsidian-ProxyEnhance"
+  },
 ]
